@@ -13,8 +13,8 @@ Bu proje, hem **Görsel Tanıma (Image Recognition)** hem de **Sabit Koordinat**
 
 1. Projeyi bilgisayarınıza indirin:
    ```bash
-   git clone [https://github.com/KULLANICI_ADINIZ/REPA_ADINIZ.git](https://github.com/KULLANICI_ADINIZ/REPA_ADINIZ.git)
-   cd REPA_ADINIZ
+   git clone [https://github.com/aliihsanbey006-ops/autoclickerv3_ali006.git](https://github.com/aliihsanbey006-ops/autoclickerv3_ali006.git)
+   cd autoclickerv3_ali006
 
 2. Gerekli kütüphaneleri yükleyin:
 
